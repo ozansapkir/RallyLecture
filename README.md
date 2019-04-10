@@ -15,3 +15,9 @@ Les outils mis en oeuvre :
 - Git
 
 Tout d'abord nous avons créée la base de données pour accueillir et traiter ces informations :
+
+Par la suite Le Logiciel nous permet de choisir  un ou plusieur fichier csv où se trouve le nom de famille.
+et le prenom.
+
+Une fois le fichier selectioner on a la possibiliter de choisir la classe ,le niveau  scolaire et si  le mots de passe est generer aleatoirement ou pas
+
