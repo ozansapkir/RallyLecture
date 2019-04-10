@@ -21,3 +21,4 @@ et le prenom.
 
 Une fois le fichier selectioner on a la possibiliter de choisir la classe ,le niveau  scolaire et si  le mots de passe est generer aleatoirement ou pas
 
+Le fichier qui est créé associe le nom avec le prenom ,la classe et  un nouveau password.
